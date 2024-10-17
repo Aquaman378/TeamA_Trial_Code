@@ -2,6 +2,8 @@
 
 #include "api.h"
 #include "lemlib/api.hpp"
+#include "chassis.hpp"
+#include "driveCurve.hpp"
 
 // The following files are imported in order to provide type definitions into
 // the compiler that allows for the objecys to
